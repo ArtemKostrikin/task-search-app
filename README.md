@@ -1,24 +1,20 @@
-# task-api-app
+# Task Search App
 
-## Project setup
-```
+Поиск задач через внешний REST API с использованием Vue.js и Vuex.
+
+## Функционал
+- Поиск задач по ключевым словам
+- Запросы к REST API (JSONPlaceholder)
+- Управление состоянием через Vuex
+- Обработка ошибок
+
+## Стек
+- Vue.js
+- Vuex
+- Axios
+
+## Запуск
+
+```bash
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
 npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
